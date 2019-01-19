@@ -1,0 +1,26 @@
+Gra polega na odpieraniu fal przeciwnikow
+
+Nasza wiska produkuje Wood(las), Iron(kopalnia), Food(pole), Rock(kopalnia), Villages(domki)
+Tempo produkcji mozna ulepszyc klikajac w znak plusa
+-koszt widnieje obok plusa
+-aktualny poziom widnieje obok plusa
+-koszt wzrasta wraz z nastepnym poziomem
+
+Nasi przeciwnicy nacieraja coraz liczniejszymi grupami dlatego chron sie!
+
+Aby kupic jednostke pliknij w ikone z odpowieni¹ nazw¹ (tam gdzie plus), cena znajduje sie poni¿ej.
+-Archers - strzelaja do wszystkiego co sie rusza (zarazem twoi jak i przeciwnicy)
+-Swordman- wojownicy o silnych atakach i sredniej obronie walczacy w zwarciu, walcza tylko na murze(atakujacy moga wejsc na mur i atakowac twoje jednostki)
+-Pikeman-  wojownicy o srednich atakach i duzej obronie walczacy w zwarciu, walcza tylko na murze(atakujacy moga wejsc na mur i atakowac twoje jednostki)
+-Katapulta- miota we wszystko po przeciwnej stronie z duzym rozrzutem
+-Healer- leczy twoje jednostki
+-Repairer- naprawia katapulty
+-Ladder- tylko po stronie atakujacych zwieksza szance  wejscia na mur
+
+-Wall-ulepszenie muru ( zmniejsza szanse wejscia na mur)
+
+Aktualny poziom zdrowia grupy jednostek pokazuje zielony pasek ponizej ich nazwy
+
+Ka¿da nastepna fala jest poprzedzana ladowaniem sie paska postêpu, b¹dŸ gotów!
+
+W dowonej chwili mozesz zatrzymac rozgrywke "Pause"
